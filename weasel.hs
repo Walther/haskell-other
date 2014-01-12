@@ -1,5 +1,7 @@
 -- Dawkins' Weasel http://en.wikipedia.org/wiki/Weasel_program
 -- Walther // 2014
+-- With huge thanks to all the helpful people at #haskell on freenode
+
 import Data.List
 import Data.Random
 import Data.Random.Extras
