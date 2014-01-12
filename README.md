@@ -1,4 +1,4 @@
 haskell-other
 =============
 
-Other prograamming challenges written in Haskell
+Other programming challenges written in Haskell
