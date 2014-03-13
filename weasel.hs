@@ -4,7 +4,7 @@
 
 import Data.List
 import Data.Random
-import Data.Random.Extras
+import Data.Random.Extras -- requires `cabal install random-extras` http://hackage.haskell.org/package/random-extras-0.17/docs/Data-Random-Extras.html
 import Control.Monad (replicateM)
 
 -- Parameters
